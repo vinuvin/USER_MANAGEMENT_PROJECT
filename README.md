@@ -102,7 +102,7 @@ Future Improvements
 
 **Steps to Run:**
     1    Clone the repository:
-git clone https://github.com/sathviksr/AJACKUS
+git clone https://github.com/vinuvin/USER_MANAGEMENT_PROJECT 
     2    cd AJACKUS_User_Management
     3    Install dependencies:
           npm install
