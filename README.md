@@ -31,7 +31,7 @@ Technologies Used:
 Setup Instructions:
 Clone the repository:
    bash
-   git clone https://github.com/sathviksr/AJACKUS_User_Management
+   git clone https://github.com/vinuvin/USER_MANAGEMENT_PROJECT
    cd AJACKUS_User_Management
 
 Install dependencies:
@@ -41,7 +41,7 @@ Run the development server:
 npm run dev
 
 Project can be viewed in this link:
-https://ajackus-user-management.vercel.app/
+
 
 Challenges Faced
 	•	Mock API Limitations: The JSONPlaceholder API doesn’t persist changes, so added or edited data is only simulated for demonstration purposes.
@@ -111,7 +111,7 @@ git clone https://github.com/sathviksr/AJACKUS
     5    Open your browser and navigate to local host port specified
 
 **Deployment:**
-The application has been deployed and is accessible at:  https://ajackus-new.vercel.app/
+The application has been deployed and is accessible at:  
 
 **Challenges Faced:**
 
