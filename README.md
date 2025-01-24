@@ -40,7 +40,7 @@ npm install
 Run the development server:
 npm run dev
 
-Project can be viewed in this link:
+Project can be viewed in this link: https://user-management-project-c1gy.vercel.app/
 
 
 Challenges Faced
@@ -111,7 +111,7 @@ git clone https://github.com/vinuvin/USER_MANAGEMENT_PROJECT
     5    Open your browser and navigate to local host port specified
 
 **Deployment:**
-The application has been deployed and is accessible at:  
+The application has been deployed and is accessible at:  https://user-management-project-c1gy.vercel.app/
 
 **Challenges Faced:**
 
